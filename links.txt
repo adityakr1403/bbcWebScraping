@@ -1,3 +1,6 @@
+/news/uk-wales-68414032-->Thousands of protesting farmers descend on Cardiff-->2
+/news/uk-england-beds-bucks-herts-68426516-->Newborn monkey a 'sign of hope' for species-->2
+/news/uk-england-oxfordshire-68424271-->Fusion reactor decommissioned after 40 years-->2
 /news/articles/c3gke5pjyw9o-->Flood plan to stop 'devastating impact' on residents-->2
 /news/articles/cl75yq041gpo-->New construction waste reuse hub to open in city-->2
 /news/uk-england-somerset-68423923-->Council defends recycling centre booking system plans-->2
@@ -19,9 +22,9 @@
 /news/articles/c04r42p4zkdo-->Project aims to return pine martens to  South East-->2
 /news/world-africa-68414362-->Rhino poaching on the rise in South Africa-->2
 /news/uk-scotland-north-east-orkney-shetland-68410890-->Old shipwreck begins to break up on Orkney beach-->2
-/news/uk-england-essex-68412054-->Vulture goes missing after display at Essex zoo-->2
-/news/uk-england-sussex-68413892-->Seabirds covered in oil found on Sussex coastline-->2
-/news/uk-england-cornwall-68402437-->Birders asked not to reveal chough nest locations-->2
+/news/uk-england-essex-68412054-->Vulture goes missing after display at Essex zoo-->3
+/news/uk-england-sussex-68413892-->Seabirds covered in oil found on Sussex coastline-->3
+/news/uk-england-cornwall-68402437-->Birders asked not to reveal chough nest locations-->3
 /news/articles/cd171k533lwo-->Fears over plans to close tips on Wednesdays-->3
 /news/articles/cp9w98vld84o-->Investigation launched after oil found in river-->3
 /news/world-asia-india-68411095-->India names astronauts for maiden space flight-->3
@@ -39,20 +42,20 @@
 /news/uk-england-suffolk-68401856-->Lovelorn goose found three miles from home-->3
 /news/articles/c5131mzk87yo-->Revised substation plans spark scale concerns-->3
 /news/uk-england-lincolnshire-68369600-->Museum preserves analogue TV tech-->3
-/news/uk-northern-ireland-68398439-->Cost to fix illegal dump could be £700m-->3
+/news/uk-northern-ireland-68398439-->Cost to fix illegal dump could be Â£700m-->3
 /news/uk-england-norfolk-68399066-->Rotted whale sculpture to be replaced-->3
 /news/articles/c29ky1jw69do-->Nine-year-old litter picker writes second book-->3
 /news/uk-england-somerset-68338906-->'Mind-blowing' hoard of historical pots on display-->3
-/news/uk-england-bristol-68338495-->Green champion 'empowering' community composting-->3
-/news/articles/cermw898v33o-->Rise in endangered bird species numbers after trial-->3
-/news/uk-england-oxfordshire-68370337-->Million coffee pods recycled in council scheme-->3
+/news/uk-england-bristol-68338495-->Green champion 'empowering' community composting-->4
+/news/articles/cermw898v33o-->Rise in endangered bird species numbers after trial-->4
+/news/uk-england-oxfordshire-68370337-->Million coffee pods recycled in council scheme-->4
 /news/uk-england-hampshire-68382992-->Endangered penguins move into new home-->4
 /news/uk-england-sussex-68373146-->Beach litter recycled in new scheme-->4
 /news/world-asia-68398675-->Bangladesh bans adopting elephants from the wild-->4
 /news/articles/cl4xpy1zv0go-->Feeder scheme finds 'heartening' rare bird numbers-->4
 /news/uk-england-devon-68348960-->Sugar beet and potatoes 'high risk' for flooding-->4
 /news/uk-england-coventry-warwickshire-68383298-->Solar farm row pits 'builders against blockers'-->4
-/news/uk-england-derbyshire-68371928-->Biggest urban rewilding project gets £1.1m boost-->4
+/news/uk-england-derbyshire-68371928-->Biggest urban rewilding project gets Â£1.1m boost-->4
 /news/uk-england-northamptonshire-68358642-->Boy, 10, raises thousands after Arctic trek-->4
 /news/uk-northern-ireland-68370638-->Armagh Observatory targets world heritage status-->4
 /news/world-europe-68393316-->Farmers' anger erupts at trade show in Paris-->4
@@ -67,10 +70,10 @@
 /news/uk-wales-politics-68381624-->Rishi Sunak backs protesting Welsh farmers-->4
 /news/uk-england-norfolk-68376876-->Anti-roads activist loses A47 appeal court case-->4
 /news/uk-england-suffolk-68383172-->Man appeals for help to find goose on the loose-->4
-/news/science-environment-68381392-->First private Moon mission marks new era for space travel-->4
-/news/uk-england-suffolk-68370018-->Council unanimously declares biodiversity emergency-->4
-/news/articles/c2emme0m20mo-->Project aims to turn city into food 'Silicon Valley'-->4
-/news/science-environment-68378714-->‘We are transmitting’: US Moon mission touches down-->5
+/news/science-environment-68381392-->First private Moon mission marks new era for space travel-->5
+/news/uk-england-suffolk-68370018-->Council unanimously declares biodiversity emergency-->5
+/news/articles/c2emme0m20mo-->Project aims to turn city into food 'Silicon Valley'-->5
+/news/science-environment-68378714-->â€˜We are transmittingâ€™: US Moon mission touches down-->5
 /news/science-environment-68377730-->American company makes historic Moon landing-->5
 /news/articles/c06med74z3po-->'Huge' wildlife loss from sewage plant, charity says-->5
 /news/uk-england-wiltshire-68371048-->Science and tech projects wanted for UK space mission-->5
@@ -84,24 +87,24 @@
 /news/uk-wales-68375484-->Prime minister criticises 'damaging' farming plans-->5
 /news/uk-england-northamptonshire-68368819-->Large fire breaks out at metal recycling plant-->5
 /news/science-environment-68349448-->Frozen antimatter may reveal origins of Universe-->5
-/news/uk-wales-politics-68371954-->Probe call over Labour hopeful's £200k donations-->5
+/news/uk-wales-politics-68371954-->Probe call over Labour hopeful's Â£200k donations-->5
 /news/world-asia-68367485-->Indonesia hit by some of strongest winds recorded-->5
 /news/uk-wales-68360168-->Farmers fear backing government's green changes-->5
-/news/uk-wales-68369945-->Men who bred puppies in sheds in £300k ring jailed-->5
+/news/uk-wales-68369945-->Men who bred puppies in sheds in Â£300k ring jailed-->5
 /news/uk-england-dorset-68369718-->Tributes paid to 'father of the Jurassic Coast'-->5
 /news/science-environment-68369916-->UK quits treaty that lets oil firms sue government-->5
 /news/world-europe-jersey-68368037-->Timber from fallen trees available for collection-->5
-/news/uk-england-dorset-68358667-->RSPB marks five years of heathland restoration-->5
-/news/articles/cw0ld76d5pgo-->Home 'destroyed' by sewage after blocked pipe-->5
-/news/articles/c3geexpj7l7o-->Mayor cuts meaty menu to serve plant-based food-->5
+/news/uk-england-dorset-68358667-->RSPB marks five years of heathland restoration-->6
+/news/articles/cw0ld76d5pgo-->Home 'destroyed' by sewage after blocked pipe-->6
+/news/articles/c3geexpj7l7o-->Mayor cuts meaty menu to serve plant-based food-->6
 /news/uk-england-wiltshire-68358838-->Date set for weekly food waste collection rollout-->6
-/news/uk-england-northamptonshire-68365006-->Astronomy author, 11, donates £1k from book sales-->6
-/news/articles/cg3ex07eg2jo-->Council to suffer £1.3m shortfall over waste collection-->6
+/news/uk-england-northamptonshire-68365006-->Astronomy author, 11, donates Â£1k from book sales-->6
+/news/articles/cg3ex07eg2jo-->Council to suffer Â£1.3m shortfall over waste collection-->6
 /news/uk-england-beds-bucks-herts-68360685-->Residents disgusted after raw meat dumped on road-->6
 /news/science-environment-68358414-->Whale song mystery solved by scientists-->6
 /news/science-environment-68363623-->Moment giant Antarctica drone takes off-->6
 /news/uk-wales-politics-68365928-->Situation with farmers tense, says FM candidate-->6
-/news/world-asia-68311913-->Historical sites in Afghanistan ‘bulldozed for looting’-->6
+/news/world-asia-68311913-->Historical sites in Afghanistan â€˜bulldozed for lootingâ€™-->6
 /news/science-environment-68318273-->Pioneering European satellite burns up over Pacific-->6
 /news/uk-england-lincolnshire-68365160-->Bin collectors abused over new recycling rules-->6
 /news/uk-wales-68360938-->Farmers breach college gates at Drakeford visit-->6
@@ -115,11 +118,11 @@
 /news/world-latin-america-68358476-->Sunset video shows Mexico volcano spewing ash-->6
 /news/uk-england-oxfordshire-68359922-->Watch: Dinosaurs invade BBC South studio-->6
 /news/articles/crg447y13nzo-->'Incredible' old shipwreck found on Orkney beach-->6
-/news/uk-england-lincolnshire-68336350-->Swearing parrots back in keepers' good books-->6
-/news/articles/cp49ej5v4vgo-->Claim that 'more than a million' waste collections missed-->6
-/news/articles/cz9mem16e4qo-->Fines issued after fly-tippers dump rubbish across city-->6
+/news/uk-england-lincolnshire-68336350-->Swearing parrots back in keepers' good books-->7
+/news/articles/cp49ej5v4vgo-->Claim that 'more than a million' waste collections missed-->7
+/news/articles/cz9mem16e4qo-->Fines issued after fly-tippers dump rubbish across city-->7
 /news/uk-england-dorset-68349380-->Museum appeals for help excavating sea monster-->7
-/news/uk-england-dorset-68348546-->Rare species set to benefit from £1m peatland project-->7
+/news/uk-england-dorset-68348546-->Rare species set to benefit from Â£1m peatland project-->7
 /news/uk-england-oxfordshire-68350927-->Honouring the animals that helped win wars-->7
 /news/uk-england-kent-68348856-->UK's fruit tree collection changes hands in Kent-->7
 /news/uk-england-cambridgeshire-68347759-->VR headsets allow users to 'explore' Antarctica-->7
@@ -139,9 +142,9 @@
 /news/articles/c1e1y93w9p2o-->Stargazers urged to photograph rare comet-->7
 /news/uk-england-manchester-68341388-->Group plants 9,000 trees to combat climate change-->7
 /news/uk-england-wiltshire-68338243-->Recycling rate drops to lowest since 2010-->7
-/news/uk-england-oxfordshire-68341196-->Celebrating 200 years of first dinosaur Megalosaurus-->7
-/news/world-europe-guernsey-68339880-->Endangered 'dinosaur trees' planted in Devon-->7
-/news/uk-england-gloucestershire-68341208-->One of UK's 'most advanced' vertical farms opens-->7
+/news/uk-england-oxfordshire-68341196-->Celebrating 200 years of first dinosaur Megalosaurus-->8
+/news/world-europe-guernsey-68339880-->Endangered 'dinosaur trees' planted in Devon-->8
+/news/uk-england-gloucestershire-68341208-->One of UK's 'most advanced' vertical farms opens-->8
 /news/uk-wales-politics-68336717-->Farmers can't do what they like with subsidies - FM-->8
 /news/uk-england-london-68317295-->Just Stop Oil protester convicted over M25 protest-->8
 /news/world-asia-68336140-->Landslide kills 25 after heavy snow in Afghanistan-->8
@@ -151,7 +154,7 @@
 /news/uk-england-gloucestershire-68338031-->Battery-powered train 'breaks UK record' in test-->8
 /news/world-latin-america-68338020-->Alert as torrential rains hit Bolivia, killing dozens-->8
 /news/uk-england-wear-68326769-->Third runaway raccoon captured at last-->8
-/news/articles/cw4q2yzn9vwo-->Recycling scheme aims to save NHS £150,000-a-year-->8
+/news/articles/cw4q2yzn9vwo-->Recycling scheme aims to save NHS Â£150,000-a-year-->8
 /news/articles/cqqx7zdy911o-->Bluetongue virus restriction lifted in Norfolk-->8
 /news/articles/c2j59gd723vo-->Star Carr Stone Age treasures to go on display-->8
 /news/uk-england-devon-68284263-->National Marine Park gets big volunteer response-->8
@@ -163,9 +166,9 @@
 /news/uk-england-wiltshire-68316993-->American recreates necklace from museum pictures-->8
 /news/articles/c0kdx7022lyo-->City's botanical gardens to rehome birds-->8
 /news/uk-england-cornwall-68305937-->Coast path having to 'adapt' to severe weather-->8
-/news/uk-wales-68310929-->How Wales' ancient rainforests inspired folklore-->8
-/news/uk-northern-ireland-68319233-->Field mouse relaxes on own 'custom-moused' chair-->8
-/news/uk-northern-ireland-68320858-->'Myriad of problems' with new livestock IT system-->8
+/news/uk-wales-68310929-->How Wales' ancient rainforests inspired folklore-->9
+/news/uk-northern-ireland-68319233-->Field mouse relaxes on own 'custom-moused' chair-->9
+/news/uk-northern-ireland-68320858-->'Myriad of problems' with new livestock IT system-->9
 /news/uk-england-wiltshire-68326587-->Work under way after oil spill pollutes river-->9
 /news/uk-wales-68328413-->Watch: Hundreds take to the streets on steel march-->9
 /news/uk-wales-68325457-->Steelworkers march over thousands of job losses-->9
@@ -187,9 +190,9 @@
 /news/articles/cn0nzn0135xo-->'Beautiful' murmuration forms over town centre-->9
 /news/articles/c4njqyd200qo-->Sheep farmers in plea to dog walkers-->9
 /news/articles/crg585l522xo-->Lincolnshire village consulted over pylon plan-->9
-/news/world-europe-guernsey-68308276-->Islanders to have say on nature and farming plans-->9
-/news/uk-england-nottinghamshire-68307625-->VR classroom aims to boost engineering skills-->9
-/news/uk-england-kent-68294794-->Power plant launches carbon capture project-->9
+/news/world-europe-guernsey-68308276-->Islanders to have say on nature and farming plans-->10
+/news/uk-england-nottinghamshire-68307625-->VR classroom aims to boost engineering skills-->10
+/news/uk-england-kent-68294794-->Power plant launches carbon capture project-->10
 /news/uk-england-sussex-68298022-->Excavation dig to explore ancient town settlement-->10
 /news/uk-wales-68295226-->Help young women to get science jobs, MPs told-->10
 /news/world-asia-68166298-->Methane mega-leak exposed in Kazakhstan-->10
@@ -211,9 +214,12 @@
 /news/articles/cw9e1g15023o-->Historical 10,000BC artefacts found on road project-->10
 /news/live/science-environment-68286237-->Lift-off! Private company launches for the Moon in Florida-->10
 /news/business-68302228-->SpaceX's legal home moved from Delaware, says Musk-->10
-/news/articles/c72gnk06k6lo-->Slurry sprayed on village streets and buildings-->10
-/news/health-68293149-->'Meaty' rice grown in lab for protein kick-->10
-/news/articles/c6pqdwnwe29o-->Borough council says area's air quality is improving-->10
+/news/articles/cw9e1g15023o-->Historical 10,000BC artefacts found on road project-->11
+/news/live/science-environment-68286237-->Lift-off! Private company launches for the Moon in Florida-->11
+/news/business-68302228-->SpaceX's legal home moved from Delaware, says Musk-->11
+/news/articles/c72gnk06k6lo-->Slurry sprayed on village streets and buildings-->11
+/news/health-68293149-->'Meaty' rice grown in lab for protein kick-->11
+/news/articles/c6pqdwnwe29o-->Borough council says area's air quality is improving-->11
 /news/articles/czrl1demzxdo-->Improvements still needed at meat plant - minister-->11
 /news/uk-wales-68284770-->Rare 'magic' white kites visit farm-->11
 /news/technology-68293896-->Google joins mission to map methane from space-->11
@@ -224,20 +230,17 @@
 /news/articles/cndnkejn4lyo-->Valentine's Day ignored by Lincoln's 'warring' swans -->11
 /news/uk-england-cambridgeshire-68289153-->Antarctic thermals donated to homeless charity-->11
 /news/uk-northern-ireland-68288571-->Bird flu causes 'dramatic decline' in NI seabirds-->11
-/news/uk-england-suffolk-68283691-->New nature reserve given £2m in lottery funding-->11
+/news/uk-england-suffolk-68283691-->New nature reserve given Â£2m in lottery funding-->11
 /news/uk-wales-68286831-->How cool and accessible is sustainable fashion?-->11
 /news/world-europe-guernsey-68282428-->Islanders asked to weigh down recycling in storms-->11
 /news/articles/cxx5lexje5eo-->Graveyards should be 'for the living', says bishop-->11
 /news/uk-england-oxfordshire-68284213-->Clarkson's farm has new grain store approved-->11
 /news/articles/c2qedyxzq23o-->Museum celebrates one year of Dippy the dinosaur-->11
-/news/world-us-canada-68291019-->A look at New York’s snowiest day in two years-->11
+/news/world-us-canada-68291019-->A look at New Yorkâ€™s snowiest day in two years-->11
 /news/world-middle-east-68289580-->A hailstorm in the desert? What's going on in UAE?-->11
-/news/uk-england-york-north-yorkshire-68283990-->Historic kiln discovered on North York Moors-->11
-/news/articles/c51v552g2ywo-->Fears spilled molasses could 'choke' marine life-->11
-/news/uk-northern-ireland-68288562-->Owner of Lough Neagh to meet environment minister-->11
-/news/uk-england-york-north-yorkshire-68283981-->Too many farmers are struggling in silence - NFU-->11
-/news/science-environment-68253819-->Polar bears face starvation threat as ice melts-->11
-/news/uk-england-surrey-68283813-->Animals lured to deaths by road litter - campaign-->11
+/news/uk-england-york-north-yorkshire-68283981-->Too many farmers are struggling in silence - NFU-->12
+/news/science-environment-68253819-->Polar bears face starvation threat as ice melts-->12
+/news/uk-england-surrey-68283813-->Animals lured to deaths by road litter - campaign-->12
 /news/uk-england-essex-68285580-->Feisty fox in a fix rescued from fence-->12
 /news/uk-northern-ireland-68282114-->Council investigates CCTV of 'bin waste mixing'-->12
 /news/articles/ckkvx921r15o-->'I guarantee we get fly-tipping every week'-->12
@@ -247,7 +250,7 @@
 /news/uk-england-somerset-68272632-->AI analyses bird sounds for conservation project-->12
 /news/articles/cxrkx7elvxyo-->Tower Hamlets has worst recycling rate in England-->12
 /news/articles/clleg2dyezqo-->Archaeologists to dig up land showing settlements-->12
-/news/articles/c2qedpd6rxlo-->Campaigners welcome new £15m sewer-->12
+/news/articles/c2qedpd6rxlo-->Campaigners welcome new Â£15m sewer-->12
 /news/uk-england-dorset-68275879-->New Jurassic Coast museum planned for Weymouth-->12
 /news/science-environment-68276680-->'Pirate of the seas' in big decline after bird flu-->12
 /news/business-67873127-->The festivals searching for greener ways to rock-->12
@@ -259,10 +262,13 @@
 /news/uk-england-gloucestershire-68253043-->Adam Henson backs farming mental health campaign-->12
 /news/uk-england-sussex-68274178-->Waste tip booking system extended across county-->12
 /news/uk-england-essex-68274304-->Wildlife hospital warns litter is killing animals-->12
-/news/uk-england-lincolnshire-68272816-->Approval for large solar farm in Lincolnshire-->12
-/news/world-latin-america-68275244-->Watch: Fireworks as giant Carnival sculptures roll through Rio-->12
-/news/articles/cmmg02e7n81o-->Fluffy the alligator turtle is tough pet warns vet-->12
-/news/uk-england-somerset-68269689-->Farmer fined £16k for polluting stream-->13
+/news/uk-england-gloucestershire-68253043-->Adam Henson backs farming mental health campaign-->13
+/news/uk-england-sussex-68274178-->Waste tip booking system extended across county-->13
+/news/uk-england-essex-68274304-->Wildlife hospital warns litter is killing animals-->13
+/news/uk-england-lincolnshire-68272816-->Approval for large solar farm in Lincolnshire-->13
+/news/world-latin-america-68275244-->Watch: Fireworks as giant Carnival sculptures roll through Rio-->13
+/news/articles/cmmg02e7n81o-->Fluffy the alligator turtle is tough pet warns vet-->13
+/news/uk-england-somerset-68269689-->Farmer fined Â£16k for polluting stream-->13
 /news/uk-england-shropshire-68255124-->Milestone for threatened species freezing scheme-->13
 /news/uk-england-berkshire-68267845-->Protest groups gather outside Barclays bank-->13
 /news/business-68270068-->Ban water bosses' bonuses now, say campaigners-->13
@@ -280,12 +286,9 @@
 /news/uk-northern-ireland-68242256-->The volunteers fighting to conserve NI's wildlife-->13
 /news/world-latin-america-68266339-->Trinidad and Tobago hit by mystery ship oil spill-->13
 /news/world-us-canada-68264541-->Fireball blazes across Hawaii as object falls to Earth-->13
-/news/uk-england-dorset-68253810-->Charity dinosaur runners race along Jurassic coast-->13
-/news/uk-england-oxfordshire-68262267-->A community appeals for help to save popular cafe-->13
-/news/uk-england-kent-68261249-->Farmer protests could escalate, warns organiser-->13
-/news/articles/ckd42v7lw0no-->Sewerby Hall welcomes alpacas and goats -->13
-/news/articles/c29knpgkyd3o-->Lambing event cancelled due to spread of virus-->13
-/news/articles/cpvrkewdzyno-->Dinosaur Island: 40 years of discoveries on Skye-->13
+/news/articles/ckd42v7lw0no-->Sewerby Hall welcomes alpacas and goats -->14
+/news/articles/c29knpgkyd3o-->Lambing event cancelled due to spread of virus-->14
+/news/articles/cpvrkewdzyno-->Dinosaur Island: 40 years of discoveries on Skye-->14
 /news/articles/c4nvweqnn9xo-->Fears over solar farm effect on wildlife sanctuary-->14
 /news/uk-england-northamptonshire-68219846-->'There are barriers for women enjoying nature'-->14
 /news/uk-england-norfolk-68255110-->Green space may be used to grow fruit for community-->14
@@ -300,16 +303,16 @@
 /news/uk-scotland-68216387-->Scottish farmers win battle over food subsidies-->14
 /news/live/uk-england-68227889-->Floods and travel disruption in Midlands after rain-->14
 /news/uk-northern-ireland-68241023-->Farmer's concerns over beef carbon reduction scheme-->14
-/news/business-68248145-->Cocoa price hits record high as El Niño hurts crops-->14
+/news/business-68248145-->Cocoa price hits record high as El NiÃ±o hurts crops-->14
 /news/world-asia-68237510-->BBC returns to ghost town flattened by Japan quake-->14
 /news/uk-wales-68232236-->Protesters parade coffin at big farm change demo-->14
 /news/articles/c14190r9q15o-->Bullying claims at Welsh meat promotion firm-->14
 /news/uk-england-suffolk-68233753-->Town park's resident otter has died, council says-->14
 /news/uk-england-essex-68229321-->Council promises to fix recycling sack 'error'-->14
 /news/articles/c2v43d1wzlxo-->Solar farm plan rejected by South Holland council-->14
-/news/science-environment-68233330-->Nuclear fusion leap brings clean power dream closer-->14
-/news/science-environment-35073297-->Why does keeping global warming to 1.5C matter?-->14
-/news/uk-england-merseyside-68238640-->Council second worst for recycling, data shows-->14
+/news/science-environment-68233330-->Nuclear fusion leap brings clean power dream closer-->15
+/news/science-environment-35073297-->Why does keeping global warming to 1.5C matter?-->15
+/news/uk-england-merseyside-68238640-->Council second worst for recycling, data shows-->15
 /news/science-environment-24021772-->Why is the world getting warmer?-->15
 /news/live/uk-england-derbyshire-68047746-->As it happened: Snow falls in the East Midlands-->15
 /news/articles/c2v43j77d01o-->Football club to generate income from energy scheme-->15
@@ -331,9 +334,9 @@
 /news/articles/clw5rdv792eo-->Recycling trial to collect 30,000 small electricals-->15
 /news/articles/cw9e51l1pz7o-->Shopping centre to install 5,000 solar panels-->15
 /news/uk-england-cornwall-68218639-->Organic veg project offers shares in bid to expand-->15
-/news/uk-england-tyne-68222741-->The great Sunderland raccoon escape-->15
-/news/world-us-canada-68206819-->Storm-soaked California braces for flash flooding-->15
-/news/science-environment-68207881-->'Godfathers of wind' share engineering's QEPrize-->15
+/news/uk-england-tyne-68222741-->The great Sunderland raccoon escape-->16
+/news/world-us-canada-68206819-->Storm-soaked California braces for flash flooding-->16
+/news/science-environment-68207881-->'Godfathers of wind' share engineering's QEPrize-->16
 /news/uk-england-devon-68217541-->Lenny the lion dies at wildlife park-->16
 /news/world-us-canada-68209953-->Flooding, rescues and mudslides in California-->16
 /news/world-us-canada-68223354-->'My house is buried': Nova Scotia gets extreme snow-->16
@@ -355,15 +358,15 @@
 /news/world-us-canada-68212194-->'Abnormal is normal' when it comes to California's weather-->16
 /news/uk-politics-68207355-->Heat pump target fines could be dropped, No 10 hints-->16
 /news/world-us-canada-68209950-->Flooded streets, downed trees and snow hit California-->16
-/news/uk-england-london-68209057-->Roman dig reveals flatpack bed ready for afterlife-->16
-/news/uk-england-cambridgeshire-68205360-->Second moonflower blooms at gardens-->16
-/news/uk-england-kent-68204689-->Golf club wins Ecological Project of the Year-->16
+/news/uk-england-london-68209057-->Roman dig reveals flatpack bed ready for afterlife-->17
+/news/uk-england-cambridgeshire-68205360-->Second moonflower blooms at gardens-->17
+/news/uk-england-kent-68204689-->Golf club wins Ecological Project of the Year-->17
 /news/world-europe-49918719-->Who is Greta Thunberg and what has she achieved?-->17
 /news/uk-scotland-68204002-->Scottish Water could hike prices further, boss says-->17
 /news/uk-scotland-68198324-->Flooding risk for Scotland as heavy rain expected-->17
-/news/articles/cv2w52nl0e8o-->More than 70 responses over £600m solar farm-->17
+/news/articles/cv2w52nl0e8o-->More than 70 responses over Â£600m solar farm-->17
 /news/uk-england-68184693-->Charity saves horses from 'fear and neglect'-->17
-/news/uk-england-essex-68188536-->Forest is worth £1.9bn over 50 years, report says-->17
+/news/uk-england-essex-68188536-->Forest is worth Â£1.9bn over 50 years, report says-->17
 /news/uk-england-devon-68173305-->Residents to have their say on Exmouth beach plans-->17
 /news/uk-scotland-south-scotland-68165934-->Pine marten poo count shows forest number growth-->17
 /news/uk-england-somerset-68161288-->Ten years on, can Somerset be saved from flooding?-->17
@@ -372,16 +375,16 @@
 /news/science-environment-68172162-->New atom-smasher could spark physics revolution-->17
 /news/articles/cw0lnyr2j1no-->Big Switch Off hopes to reveal thousands of stars-->17
 /news/uk-northern-ireland-68180875-->Could used tea leaves help make water cleaner?-->17
-/news/uk-england-hampshire-68197012-->Dinosaur costume walkers raise £10k for charity-->17
+/news/uk-england-hampshire-68197012-->Dinosaur costume walkers raise Â£10k for charity-->17
 /news/uk-england-cumbria-68174197-->'Recycling rambler' van to pick up electrical items-->17
 /news/uk-england-bristol-68029336-->'It's paramount that we educate people'-->17
 /news/uk-england-suffolk-68186537-->Farmers urged to take part in latest bird count-->17
 /news/uk-england-suffolk-68193342-->Watch: 'Amazing' moment deer is cut free from wire-->17
 /news/world-europe-68133386-->They fled as lava spilled into town - and they may never return-->17
 /news/uk-england-tyne-68171084-->'Major' peat restoration project completed-->17
-/news/uk-england-gloucestershire-68154098-->Cyclist rides 160 miles to kick off football match-->17
-/news/uk-england-sussex-68183832-->Worker marks 40 years at zoo where she grew up-->17
-/news/uk-england-somerset-68129118-->Returnable coffee cup project expand into new city-->17
+/news/uk-england-gloucestershire-68154098-->Cyclist rides 160 miles to kick off football match-->18
+/news/uk-england-sussex-68183832-->Worker marks 40 years at zoo where she grew up-->18
+/news/uk-england-somerset-68129118-->Returnable coffee cup project expand into new city-->18
 /news/uk-england-oxfordshire-68156758-->Charity aims to restore more of county's hedgerows-->18
 /news/uk-england-hampshire-68171200-->Iron Age and Roman finds on show after 50 years-->18
 /news/uk-68190393-->UK buyer wanted for last of Shackleton's medals-->18
@@ -393,8 +396,8 @@
 /news/articles/cz7kl57l4xzo-->Zoo annual animal count reveals 52 births-->18
 /news/uk-england-northamptonshire-68172687-->Boy set for Arctic trek in tribute to father-->18
 /news/uk-northern-ireland-68171634-->'Magical things happen where land meets water'-->18
-/news/uk-england-cambridgeshire-68166414-->Bid to eliminate plastics boosted by £5.5m funding-->18
-/news/uk-scotland-68133750-->‘We’ll have to burn millions of trees after cuts'-->18
+/news/uk-england-cambridgeshire-68166414-->Bid to eliminate plastics boosted by Â£5.5m funding-->18
+/news/uk-scotland-68133750-->â€˜Weâ€™ll have to burn millions of trees after cuts'-->18
 /news/articles/c72gzvzkx0yo-->Woodland project celebrates planting 200th tree-->18
 /news/uk-england-lancashire-68173794-->New planets have flattened shapes 'like Smarties'-->18
 /news/uk-england-lincolnshire-68171016-->Guinea pigs in luxury shed become TikTok hit-->18
@@ -403,9 +406,9 @@
 /news/business-68005481-->Should more British homes be built using straw?-->18
 /news/uk-england-london-68166341-->Greta Thunberg: We must remember who real enemy is-->18
 /news/articles/cgx5vlx087wo-->XL bully owner felt 'worse' for following law-->18
-/news/uk-england-york-north-yorkshire-68166734-->Roman visitor attraction plans abandoned-->18
-/news/articles/cv2vp80k3n8o-->Escaped monkey caught in Highland garden-->18
-/news/uk-scotland-68172696-->Watch: How the search for the missing monkey unfolded-->18
+/news/uk-england-york-north-yorkshire-68166734-->Roman visitor attraction plans abandoned-->19
+/news/articles/cv2vp80k3n8o-->Escaped monkey caught in Highland garden-->19
+/news/uk-scotland-68172696-->Watch: How the search for the missing monkey unfolded-->19
 /news/articles/clev1xyv9gno-->County's flooding concerns are put before MPs-->19
 /news/uk-england-devon-68159097-->Sea swimmer sues water firm over sewage spills-->19
 /news/uk-wales-68167708-->Dolphin dies after six stranded on beach-->19
@@ -427,9 +430,8 @@
 /news/uk-england-cornwall-68155867-->Criticism of National Trust car park plan-->19
 /news/uk-england-suffolk-68155156-->Rare white-tailed sea eagles spotted in Suffolk-->19
 /news/articles/cp6xl8wlrr6o-->Oh deer! Muntjac wedged upside down between houses-->19
-/news/uk-england-kent-68154170-->Concerns over disease as food check centre moved-->19
-/news/uk-england-hampshire-68153861-->River sewage pipe plan a mistake - water firm boss-->19
-/news/articles/cldqzy611l5o-->National park bid for 'spectacular' Galloway backed-->19
+/news/uk-england-hampshire-68153861-->River sewage pipe plan a mistake - water firm boss-->20
+/news/articles/cldqzy611l5o-->National park bid for 'spectacular' Galloway backed-->20
 /news/articles/cqedynmg4vlo-->Drone captures second sighting of escaped monkey-->20
 /news/uk-england-essex-68130005-->Police use drones to catch illegal treasure-hunters-->20
 /news/uk-scotland-68151776-->Watch: New video emerges of escaped monkey-->20
@@ -452,13 +454,14 @@
 /news/uk-england-oxfordshire-68132743-->Dig reveals Iron Age blacksmith workshop-->20
 /news/science-environment-68132688-->England's hedges would go around Earth ten times-->20
 /news/world-australia-68137012-->Woman injured in Sydney Harbour shark attack-->20
-/news/world-europe-68135180-->French farmers block major roads around Paris-->20
-/news/uk-england-norfolk-68131324-->Petition for coastal defences taken to No 10-->20
+/news/world-australia-68137012-->Woman injured in Sydney Harbour shark attack-->21
+/news/world-europe-68135180-->French farmers block major roads around Paris-->21
+/news/uk-england-norfolk-68131324-->Petition for coastal defences taken to No 10-->21
 /news/uk-england-wiltshire-68130710-->Safari park's announces death of 'beloved' hippo-->21
 /news/uk-wales-68128031-->Wind turbine catches fire as burning pieces fall-->21
 /news/uk-england-cambridgeshire-68131271-->Rare moonflower set to bloom again at gardens-->21
 /news/technology-68104861-->Has great white shark newborn been caught on film?-->21
-/news/uk-wales-politics-68128437-->Ospreys ruin ministers' £4.25m festival farm plan-->21
+/news/uk-wales-politics-68128437-->Ospreys ruin ministers' Â£4.25m festival farm plan-->21
 /news/science-environment-68131105-->'Toy poodles' on the Moon: Japan lander gets to work-->21
 /news/uk-england-sussex-68129637-->Museum unveils first new diorama in 92 years-->21
 /news/articles/cjjx4gxjy82o-->Escaped monkey was running from fight, says keeper-->21
@@ -474,11 +477,11 @@
 /news/uk-england-devon-68116870-->Beaches cleaned by volunteers in day of action-->21
 /news/uk-england-devon-68117088-->Medics lead die-in protest over fossil fuels-->21
 /news/uk-england-hampshire-68117575-->'Slay' says Thunberg at airport expansion protest-->21
-/news/articles/c2qe5331654o-->Pollution that killed 100,000 fish still a mystery-->21
-/news/uk-england-hampshire-68116542-->Greta Thunberg joins marchers in airport protest-->21
-/news/uk-scotland-edinburgh-east-fife-68057869-->Uri Geller unearths Scottish brick in Israel-->21
+/news/articles/c2qe5331654o-->Pollution that killed 100,000 fish still a mystery-->22
+/news/uk-england-hampshire-68116542-->Greta Thunberg joins marchers in airport protest-->22
+/news/uk-scotland-edinburgh-east-fife-68057869-->Uri Geller unearths Scottish brick in Israel-->22
 /news/articles/cp3en1n81elo-->Council approves plans to tackle climate change-->22
-/news/uk-england-hampshire-68104154-->Green shipping projects share £33m funding-->22
+/news/uk-england-hampshire-68104154-->Green shipping projects share Â£33m funding-->22
 /news/uk-england-bristol-68056059-->'We bonded over a love of snakes'-->22
 /news/uk-england-cornwall-68107178-->Ancient findings uncovered during road upgrade-->22
 /news/science-environment-68106504-->Woodpeckers and sparrowhawks: Your Birdwatch 2024 pictures-->22
@@ -490,17 +493,17 @@
 /news/world-europe-68104202-->French PM offers concessions to road-blocking farmers-->22
 /news/uk-northern-ireland-68103251-->Condemnation as Bible messages pollute Bann river-->22
 /news/uk-england-hampshire-68105944-->The Crown actor slams river sewage discharge plan-->22
-/news/articles/c978pp86v19o-->King ‘notes’ campaign against holiday resort-->22
+/news/articles/c978pp86v19o-->King â€˜notesâ€™ campaign against holiday resort-->22
 /news/world-europe-guernsey-68109244-->Leale's Yard historic dig finds mostly 'rubbish'-->22
 /news/uk-england-devon-68104178-->Torridge's carbon footprint among worst in UK-->22
-/news/uk-england-gloucestershire-68094039-->Recycling Christmas trees raises £68k for hospice-->22
+/news/uk-england-gloucestershire-68094039-->Recycling Christmas trees raises Â£68k for hospice-->22
 /news/uk-england-leeds-68099953-->Tip closure sees village targeted again - resident-->22
 /news/uk-england-oxfordshire-68082051-->Crafting enthusiast uses skills on space missions-->22
 /news/articles/cxx5n2zp40lo-->In pictures: Wolf Moon rising in Northern Ireland-->22
 /news/uk-northern-ireland-68092300-->The first full moon of 2024 brightens night sky-->22
-/news/articles/cd1wn1yx5l1o-->Watchdog criticised over sewage spill permit-->22
-/news/science-environment-68099428-->Fewer wild birds visiting UK gardens - RSPB-->22
-/news/science-environment-68071695-->Hermit crabs are 'wearing' our plastic rubbish-->22
+/news/articles/cd1wn1yx5l1o-->Watchdog criticised over sewage spill permit-->23
+/news/science-environment-68099428-->Fewer wild birds visiting UK gardens - RSPB-->23
+/news/science-environment-68071695-->Hermit crabs are 'wearing' our plastic rubbish-->23
 /news/science-environment-68099672-->Mars crash ends Nasa helicopter Ingenuity's mission-->23
 /news/uk-northern-ireland-68098486-->Many Fibrus customers remain offline after storms-->23
 /news/uk-northern-ireland-68092307-->Bones found in bog could be 2,000-year-old boy-->23
@@ -522,9 +525,9 @@
 /news/uk-northern-ireland-68079158-->'Major disruption' caused by Storm Jocelyn-->23
 /news/uk-68081963-->Watch: How two storms in four days wreaked havoc-->23
 /news/articles/cd1j4vrd687o-->Strong winds overturn lorries and uproot trees-->23
-/news/science-environment-68064432-->World's first IVF rhino pregnancy 'could save species'-->23
-/news/uk-england-cambridgeshire-68070157-->Solar farm plan rejected by councillors again-->23
-/news/uk-england-sussex-68075151-->Brighton set to reintroduce weedkiller after ban-->23
+/news/science-environment-68064432-->World's first IVF rhino pregnancy 'could save species'-->24
+/news/uk-england-cambridgeshire-68070157-->Solar farm plan rejected by councillors again-->24
+/news/uk-england-sussex-68075151-->Brighton set to reintroduce weedkiller after ban-->24
 /news/articles/crg5d5jpp0mo-->Solar panels project to cut schools' energy bills-->24
 /news/uk-scotland-68059764-->Storm Jocelyn brings further weather warnings-->24
 /news/articles/c2ey432891zo-->Farmers encouraged to grow greener with grants-->24
@@ -539,16 +542,16 @@
 /news/uk-england-shropshire-68068559-->Milking robots factory to relocate due to demand-->24
 /news/science-environment-67945281-->North Sea oil and gas claims fact-checked-->24
 /news/uk-england-lancashire-68046990-->Campaigner backs Lancashire's food waste plan-->24
-/news/uk-northern-ireland-68061450-->Community groups offered cash from £5m lottery pot-->24
+/news/uk-northern-ireland-68061450-->Community groups offered cash from Â£5m lottery pot-->24
 /news/uk-england-68056920-->Wildlife trusts hit out at pesticide use on crops-->24
 /news/articles/czd7w254ld5o-->Call for more vapes to be recycled-->24
 /news/uk-england-bristol-68056835-->How do you spot a waxwing?-->24
 /news/uk-england-somerset-68056304-->Flying reptiles 'lived in pre-historic England'-->24
 /news/uk-england-leeds-68061042-->Tip closure petition tops 5,000-name mark-->24
 /news/uk-england-wiltshire-68056844-->Council looks at fencing to save migrating toads-->24
-/news/uk-england-norfolk-68058902-->'Insurers need a reality check on climate change'-->24
-/news/uk-england-stoke-staffordshire-68058769-->Stargazer's garden gateway to universe-->24
-/news/uk-68055640-->Storm Isha leaves two dead and thousands without power-->24
+/news/uk-england-norfolk-68058902-->'Insurers need a reality check on climate change'-->25
+/news/uk-england-stoke-staffordshire-68058769-->Stargazer's garden gateway to universe-->25
+/news/uk-68055640-->Storm Isha leaves two dead and thousands without power-->25
 /news/uk-wales-68049810-->Flood alerts as Storm Isha brings 90mph winds-->25
 /news/uk-scotland-68063232-->Video shows damage caused by Storm Isha-->25
 /news/uk-scotland-68053009-->Man dies after Storm Isha causes major disruption-->25
@@ -556,7 +559,7 @@
 /news/uk-england-cumbria-68053590-->Major rescue operation for two walkers in storm-->25
 /news/uk-northern-ireland-68057253-->Man in his 60s dies in crash during Storm Isha-->25
 /news/uk-england-devon-68053372-->Power cuts and travel disruption from Storm Isha-->25
-/news/uk-england-humber-68054684-->Village pond gets £25k government-funded rescue-->25
+/news/uk-england-humber-68054684-->Village pond gets Â£25k government-funded rescue-->25
 /news/world-africa-68054402-->Floods cause devastation in Tanzania's main city-->25
 /news/uk-68043800-->Storm Isha batters UK with strong winds and rain-->25
 /news/science-environment-68055186-->Japan hopes sunlight can save stricken Moon lander-->25
@@ -570,9 +573,9 @@
 /news/uk-northern-ireland-68041593-->Almost 50,000 without power as Storm Isha hits NI-->25
 /news/uk-england-devon-68047317-->Amber warning as Storm Isha hits South West-->25
 /news/uk-england-cumbria-68050372-->Storm puts emergency services on major incident alert-->25
-/news/uk-scotland-68049896-->ScotRail services suspended over Storm Isha winds-->25
-/news/uk-wales-68005838-->Earth’s earliest creatures dated from Welsh rocks-->25
-/news/uk-scotland-68046875-->Scotland set to be hit with 80mph Storm Isha winds-->25
+/news/uk-scotland-68049896-->ScotRail services suspended over Storm Isha winds-->26
+/news/uk-wales-68005838-->Earthâ€™s earliest creatures dated from Welsh rocks-->26
+/news/uk-scotland-68046875-->Scotland set to be hit with 80mph Storm Isha winds-->26
 /news/live/uk-england-68049456-->Travel disrupted as Storm Isha hits West Midlands-->26
 /news/uk-england-sussex-68041360-->Storm Isha prompts wind warning for South East-->26
 /news/articles/ce95dy2r19qo-->Black bin size may be reduced to  promote recycling-->26
@@ -594,16 +597,16 @@
 /news/uk-england-shropshire-68037556-->Disabled adventurer plans 20-day Antarctic feat-->26
 /news/science-environment-68035314-->Japan lands on Moon but glitch threatens mission-->26
 /news/world-us-canada-68036761-->Incredible footage shows icy weather phenomena-->26
-/news/uk-england-oxfordshire-68017457-->Clarkson's Farm star releases charity sheep rap-->26
-/news/uk-england-essex-68034241-->Smoke pouring out of recycling centre after fire-->26
-/news/uk-england-london-68029786-->London boroughs see increase in fly-tipping-->26
+/news/uk-england-oxfordshire-68017457-->Clarkson's Farm star releases charity sheep rap-->27
+/news/uk-england-essex-68034241-->Smoke pouring out of recycling centre after fire-->27
+/news/uk-england-london-68029786-->London boroughs see increase in fly-tipping-->27
 /news/uk-england-london-68031717-->Firefighters rescue dog from icy lake-->27
 /news/uk-scotland-south-scotland-68031531-->Ministry of Defence winning red squirrel battle-->27
 /news/uk-england-devon-68029242-->'Spectacular fireball' spotted over Devon-->27
 /news/live/science-environment-68019846-->Japan makes contact with 'Moon Sniper' on lunar surface-->27
 /news/articles/cd1w11jg2ydo-->Whale skeleton moved during museum renovations-->27
 /news/uk-england-devon-68030173-->Zoo welcomes arrival of 'Bambi-like' antelope calf-->27
-/news/uk-northern-ireland-68030580-->Wind power saved NI £243m last year, report finds-->27
+/news/uk-northern-ireland-68030580-->Wind power saved NI Â£243m last year, report finds-->27
 /news/world-europe-isle-of-man-68029594-->Concerns for wildlife as wind farm plans progress-->27
 /news/uk-england-manchester-68028464-->Astronomers find mysterious object in Milky Way-->27
 /news/uk-england-lincolnshire-68021879-->Council criticised over 'petty' recycling tags-->27
@@ -618,9 +621,9 @@
 /news/science-environment-68026440-->Japan mission is latest effort to land on the Moon-->27
 /news/science-environment-68025634-->Bee-harming pesticide in emergency approval again-->27
 /news/uk-68001525-->Sub-zero temperatures to ease after coldest night-->27
-/news/articles/c6p1p5v47k0o-->Important island 'not left behind' on climate-->27
-/news/articles/cd1k1xmyk7jo-->Rare white whale spotted near Shetland-->27
-/news/uk-england-surrey-68018056-->Fourteen lambs mown down by car in field-->27
+/news/articles/c6p1p5v47k0o-->Important island 'not left behind' on climate-->28
+/news/articles/cd1k1xmyk7jo-->Rare white whale spotted near Shetland-->28
+/news/uk-england-surrey-68018056-->Fourteen lambs mown down by car in field-->28
 /news/uk-england-devon-68016985-->Wallaby missing from Devon farm shop-->28
 /news/uk-wales-68021962-->Rubbish collectors use road like tip - councillor-->28
 /news/articles/cerlr09w3kwo-->Frozen 'egg ice lolly' discovered in hen coop-->28
@@ -642,10 +645,10 @@
 /news/uk-england-devon-68003332-->Charity plea after giant tortoises found dead-->28
 /news/articles/c802z6xpj6jo-->Space expert 'gutted' as Moon mission abandoned-->28
 /news/uk-england-cornwall-67998037-->Seal caught in plastic ring for six years rescued-->28
-/news/uk-england-london-67993950-->London is underprepared for climate change - report-->28
-/news/uk-england-somerset-67993583-->Five recycling centres could close in council cuts-->28
-/news/science-environment-67998344-->Flood defence policy flawed, say MPs-->28
-/news/uk-england-dorset-67986079-->University gets £1.6m for centre to study plastic-->29
+/news/uk-england-london-67993950-->London is underprepared for climate change - report-->29
+/news/uk-england-somerset-67993583-->Five recycling centres could close in council cuts-->29
+/news/science-environment-67998344-->Flood defence policy flawed, say MPs-->29
+/news/uk-england-dorset-67986079-->University gets Â£1.6m for centre to study plastic-->29
 /news/uk-wales-67933441-->Thousands at risk as flooding defence costs rise-->29
 /news/uk-scotland-67986537-->Snow and ice warning covers all of Scotland-->29
 /news/uk-england-northamptonshire-67994189-->Rough sleeper emergency weather protocol activated-->29
@@ -655,10 +658,10 @@
 /news/uk-england-somerset-67935541-->Homelessness 'is health worry' not just housing issue-->29
 /news/world-africa-67990946-->Mauritius assesses damage after Cyclone Belal-->29
 /news/world-europe-67981198-->Watch: Aerial footage shows lava engulf Iceland houses-->29
-/news/science-environment-64192508-->What is El Niño and how does it change the weather?-->29
+/news/science-environment-64192508-->What is El NiÃ±o and how does it change the weather?-->29
 /news/uk-england-bristol-67988293-->River bank like 'shanty town' after heavy rainfall-->29
 /news/uk-england-67911591-->What England's fossils have told us about our past-->29
-/news/uk-northern-ireland-67983332-->National Trust investing £6m in Belfast mountains-->29
+/news/uk-northern-ireland-67983332-->National Trust investing Â£6m in Belfast mountains-->29
 /news/uk-wales-67984606-->Almost 300,000 properties face flood risk-->29
 /news/articles/c72yky122v3o-->Scientist wins award for space weather model-->29
 /news/science-environment-67986443-->Spectacular arches and caves as iceberg decays-->29
@@ -666,9 +669,9 @@
 /news/uk-england-derbyshire-67988605-->Footage shows man abseiling to take peregrine eggs-->29
 /news/uk-england-cambridgeshire-67985006-->Anglian Water vows 'no repeat' of mass tree deaths-->29
 /news/world-67984044-->Watch: Cars submerged as cyclone batters Mauritius-->29
-/news/world-67982380-->Cyclone brings heavy rain to Mauritius and Réunion-->29
-/news/uk-england-gloucestershire-67983222-->Charity collects more than 3,000 Christmas trees-->29
-/news/uk-england-norfolk-67928435-->Lifeboat station faces erosion threat - coxswain-->29
+/news/world-67982380-->Cyclone brings heavy rain to Mauritius and RÃ©union-->30
+/news/uk-england-gloucestershire-67983222-->Charity collects more than 3,000 Christmas trees-->30
+/news/uk-england-norfolk-67928435-->Lifeboat station faces erosion threat - coxswain-->30
 /news/world-europe-67977591-->Iceland lava slowing down after day of destruction-->30
 /news/articles/crg09pzrmlmo-->Rare fishing cat at Manx wildlife park dies-->30
 /news/uk-scotland-67980671-->Climate change target warning over forestry cuts-->30
@@ -690,9 +693,9 @@
 /news/world-europe-67974967-->Huge lava flows as volcano erupts in Iceland-->30
 /news/world-latin-america-67967379-->Colombia landslide toll rises to 33 including children-->30
 /news/uk-england-devon-67965444-->Community launches its own composting group-->30
-/news/live/world-europe-67973655-->Volcanic activity near Grindavik easing after eruption - Met Office-->30
-/news/world-europe-guernsey-67951250-->Fund opens to aid tree recovery after storm-->30
-/news/uk-england-67882639-->What it's like to live off grid in England-->30
+/news/live/world-europe-67973655-->Volcanic activity near Grindavik easing after eruption - Met Office-->31
+/news/world-europe-guernsey-67951250-->Fund opens to aid tree recovery after storm-->31
+/news/uk-england-67882639-->What it's like to live off grid in England-->31
 /news/articles/c0xylvdwxqyo-->Campaigners gather on beach in sewage protest-->31
 /news/uk-england-gloucestershire-67957542-->International gathering to halt hedgehog decline-->31
 /news/articles/c10y18ly6dmo-->Bid to recycle more electrical items-->31
@@ -701,7 +704,7 @@
 /news/uk-scotland-highlands-islands-67957235-->Airbnb host stunned after puppy seller trashes home-->31
 /news/uk-england-cambridgeshire-67952131-->Pushing plant-based food 'limits people's choices'-->31
 /news/world-us-canada-67947335-->Winter storm hits US with heavy snow and icy winds-->31
-/news/world-asia-67958480-->South Korea’s complicated relationship with dog meat-->31
+/news/world-asia-67958480-->South Koreaâ€™s complicated relationship with dog meat-->31
 /news/uk-scotland-67959940-->See inside a Highland Airbnb trashed by a puppy seller-->31
 /news/uk-67963874-->Watch forecast: Snow risk in north and south-->31
 /news/uk-scotland-edinburgh-east-fife-67952279-->Bear rescued in Ukraine shelling gets Scottish home-->31
@@ -714,9 +717,9 @@
 /news/uk-england-sussex-67950707-->Home of Winnie the Pooh to bid for government cash-->31
 /news/uk-wales-67945337-->Campaigners fight solar farms on 'Wales' Amazon'-->31
 /news/uk-england-dorset-67946198-->Dorset giant fossil is monster attraction-->31
-/news/uk-england-dorset-67935171-->Default 20mph limit planned for seaside towns-->31
-/news/uk-england-york-north-yorkshire-67948448-->Iron Age infant with Down's syndrome identified-->31
-/news/science-environment-67950749-->Huge galaxy ring challenges thinking on universe-->31
+/news/uk-england-dorset-67935171-->Default 20mph limit planned for seaside towns-->32
+/news/uk-england-york-north-yorkshire-67948448-->Iron Age infant with Down's syndrome identified-->32
+/news/science-environment-67950749-->Huge galaxy ring challenges thinking on universe-->32
 /news/uk-wales-67952775-->Watch as town's lights shut down for dark sky-->32
 /news/science-environment-67940671-->Huge ancient city found in the Amazon-->32
 /news/uk-wales-67941824-->Lights go down in Wales' first dark sky community-->32
@@ -738,9 +741,9 @@
 /news/world-africa-67937595-->How to survive living in a cyclone zone-->32
 /news/articles/crg0p0kw404o-->Warning to not go into sea after pollution leak-->32
 /news/uk-england-tees-67935267-->Calls to halt works after historic items found-->32
-/news/world-us-canada-67940973-->Extreme weather wreaks havoc across the US-->32
-/news/uk-wales-67938901-->Watch as red kites swarm garden for leftovers-->32
-/news/uk-england-devon-67935566-->Purple poo campaign aims to protect ecosystem-->32
+/news/world-us-canada-67940973-->Extreme weather wreaks havoc across the US-->33
+/news/uk-wales-67938901-->Watch as red kites swarm garden for leftovers-->33
+/news/uk-england-devon-67935566-->Purple poo campaign aims to protect ecosystem-->33
 /news/health-67917294-->Scientists crack mystery of how MS gene spread-->33
 /news/uk-england-suffolk-67935151-->Farmer lets land flood to protect town downstream-->33
 /news/uk-northern-ireland-67936199-->Wind farm application should be refused - officials-->33
@@ -754,7 +757,7 @@
 /news/uk-england-leicestershire-67914854-->Floods leave river 'festooned' with litter-->33
 /news/uk-northern-ireland-67916306-->Surprise and shock over late NI barn owl brood-->33
 /news/uk-england-suffolk-67925436-->Film star Ralph Fiennes fights pylons plan-->33
-/news/uk-england-norfolk-67924452-->Peat wetland project gets £210k for new reserve-->33
+/news/uk-england-norfolk-67924452-->Peat wetland project gets Â£210k for new reserve-->33
 /news/uk-england-derbyshire-67836727-->Farmer fears being turfed off land for solar farm-->33
 /news/uk-england-london-67916779-->Pants and moustaches among missing museum artefacts-->33
 /news/science-environment-67410372-->The last of the Moon men-->33
@@ -762,9 +765,9 @@
 /news/world-africa-67929427-->Elephant tusks worth $11m destroyed in Nigeria-->33
 /news/uk-england-surrey-67924693-->Gas drilling decision disappointing - Jeremy Hunt-->33
 /news/world-us-canada-67928441-->Hail, tornadoes and snow as extreme weather hits US-->33
-/news/science-environment-67929439-->US Moon mission has no chance of soft lunar landing-->33
-/news/uk-northern-ireland-67928483-->Uncertainty over chief vet's status after job advert-->33
-/news/uk-england-nottinghamshire-67924302-->Flood-hit rugby club launches fundraising appeal-->33
+/news/science-environment-67929439-->US Moon mission has no chance of soft lunar landing-->34
+/news/uk-northern-ireland-67928483-->Uncertainty over chief vet's status after job advert-->34
+/news/uk-england-nottinghamshire-67924302-->Flood-hit rugby club launches fundraising appeal-->34
 /news/science-environment-67893808-->Norway approves controversial deep-sea mining-->34
 /news/uk-england-cambridgeshire-67926737-->Medieval paintings uncovered by builders-->34
 /news/uk-63888234-->How can I keep my baby warm during cold weather?-->34
@@ -777,7 +780,7 @@
 /news/uk-england-northamptonshire-67918499-->Campaigners' joy at victory in battle for wood-->34
 /news/articles/c51zw96yz98o-->Dog 'wanders' home after more than 100 join search-->34
 /news/uk-england-norfolk-67912823-->Iron Age fort to feature on Digging for Britain-->34
-/news/articles/cle76wwy948o-->£30m study gives 'hope' to liver disease patients-->34
+/news/articles/cle76wwy948o-->Â£30m study gives 'hope' to liver disease patients-->34
 /news/business-67518869-->Where will all the electric cars be charged?-->34
 /news/uk-england-essex-67892677-->Hundreds still flocking to estate for 'rare bird'-->34
 /news/uk-england-gloucestershire-67913276-->Farmer lets third of her land flood to protect city-->34
@@ -786,9 +789,9 @@
 /news/uk-wales-62134399-->How does the new 20mph speed limit law work?-->34
 /news/uk-england-sussex-67727441-->Concerns raised about Ashdown Forest deer numbers-->34
 /news/business-51444789-->What are my rights if my home is flooded?-->34
-/news/science-environment-67894917-->Vulcan rocket launches private US Moon mission-->34
-/news/live/world-us-canada-67871401-->Watch: US rocket launching private Moon lander mission-->34
-/news/uk-england-lincolnshire-67894094-->People to start using purple lid bins for paper-->34
+/news/science-environment-67894917-->Vulcan rocket launches private US Moon mission-->35
+/news/live/world-us-canada-67871401-->Watch: US rocket launching private Moon lander mission-->35
+/news/uk-england-lincolnshire-67894094-->People to start using purple lid bins for paper-->35
 /news/world-asia-67909286-->Japan earthquake death toll rises to 161-->35
 /news/articles/c6p17p1g8leo-->'Stinking farm slurry' pours onto beach-->35
 /news/articles/cjjgzjgy8gdo-->New sewer burst delays repairs at seaside town-->35
@@ -810,9 +813,9 @@
 /news/uk-wales-67900976-->Mystery surrounds rare eagle spotted by farmer-->35
 /news/uk-england-suffolk-67891039-->Large tree falls on to animal pen at wildlife park-->35
 /news/uk-northern-ireland-67891915-->What should I do with my Christmas tree this year?-->35
-/news/science-environment-67596154-->The woman who spends winter in search of a rare fern-->35
-/news/world-europe-67899408-->Greece reopens Alexander the Great palace site-->35
-/news/uk-england-london-67892011-->Homes and shops hit by flash floods in Hackney Wick-->35
+/news/science-environment-67596154-->The woman who spends winter in search of a rare fern-->36
+/news/world-europe-67899408-->Greece reopens Alexander the Great palace site-->36
+/news/uk-england-london-67892011-->Homes and shops hit by flash floods in Hackney Wick-->36
 /news/uk-england-lincolnshire-67890578-->Farmer's heartbreak as his land floods again-->36
 /news/uk-england-hampshire-67893694-->Heavy rainfall leads to flooding in Hampshire-->36
 /news/uk-england-northamptonshire-67895272-->Flood response stood down as risk lowers-->36
@@ -822,7 +825,7 @@
 /news/uk-england-northamptonshire-67892978-->Farmer and drivers praised for taking tree off road-->36
 /news/science-environment-67892275-->Neptune and Uranus finally seen in true colours-->36
 /news/uk-england-london-67889961-->Floating bar sinks in Thames amid heavy rainfall-->36
-/news/articles/cn49g9y3z4yo-->Space elevator concept wins €10,000 design prize-->36
+/news/articles/cn49g9y3z4yo-->Space elevator concept wins â‚¬10,000 design prize-->36
 /news/uk-scotland-67875061-->Loch Ness hydro power 'gold rush' branded a disaster-->36
 /news/world-asia-67889216-->Nearly 250 missing after Japan quake as hope fades-->36
 /news/live/uk-67890436-->Cold weather alert for England as floods cause disruption-->36
@@ -834,9 +837,9 @@
 /news/uk-england-kent-67881849-->Cold snap triggers alert for vulnerable residents-->36
 /news/uk-england-leicestershire-67884988-->Lizards at reservoir for first time in 15 years-->36
 /news/uk-scotland-south-scotland-67883279-->'Gateway to Scotland' wind farm rejected-->36
-/news/articles/cd1k8kd1wrno-->Jeremy Clarkson plans new barn for Diddly Squat Farm-->36
-/news/articles/c72yrd8y9pwo-->Climate stripes need new colour as world warms-->36
-/news/world-asia-67879612-->'What is the point?' ask disillusioned voters ahead of polls-->36
+/news/articles/cd1k8kd1wrno-->Jeremy Clarkson plans new barn for Diddly Squat Farm-->37
+/news/articles/c72yrd8y9pwo-->Climate stripes need new colour as world warms-->37
+/news/world-asia-67879612-->'What is the point?' ask disillusioned voters ahead of polls-->37
 /news/uk-67878565-->Heavy rain and widespread flooding cause disruption-->37
 /news/uk-67888907-->Heavy rain and widespread flooding cause disruption-->37
 /news/uk-england-67882481-->Flood warnings remain in place after Storm Henk-->37
@@ -858,9 +861,9 @@
 /news/uk-67870028-->Storm Henk leaves disruption and flooding in wake-->37
 /news/uk-wales-67870699-->Family at flood-hit caravan site in tractor rescue-->37
 /news/uk-england-67870623-->Flood alerts across south-east England after storm-->37
-/news/articles/cxx3ed3jzj2o-->MPs surprised by Covid mega lab's Rightmove sale -->37
-/news/uk-england-gloucestershire-67875803-->Man dies after tree falls on car during Storm Henk-->37
-/news/uk-england-london-67871929-->Zoo census tots up tigers and tallies tortoises-->37
+/news/articles/cxx3ed3jzj2o-->MPs surprised by Covid mega lab's Rightmove sale -->38
+/news/uk-england-gloucestershire-67875803-->Man dies after tree falls on car during Storm Henk-->38
+/news/uk-england-london-67871929-->Zoo census tots up tigers and tallies tortoises-->38
 /news/world-europe-67872331-->Trial for quake tragedy that killed volleyball team-->38
 /news/articles/cg3dnngkgvzo-->Fire service called 110 times as storm batters area-->38
 /news/uk-england-dorset-67872723-->London Eye passenger describes hatch scare in storm-->38
@@ -882,12 +885,10 @@
 /news/uk-67868616-->Watch: 24 hours of Storm Henk destruction across UK-->38
 /news/uk-england-cambridgeshire-67867122-->Flood warning issued for Cambridgeshire town-->38
 /news/articles/cv25r4dn8gvo-->Wind closes QEII bridge and causes train delays-->38
-/news/uk-england-suffolk-67866330-->Reduced speed limit on Orwell Bridge due to winds-->38
-/news/science-environment-67845671-->2023 was UK's second warmest year on record-->38
-/news/uk-england-norfolk-67863228-->Council lifts charge on dumping DIY waste-->38
+/news/uk-england-norfolk-67863228-->Council lifts charge on dumping DIY waste-->39
 /news/uk-england-leicestershire-67861752-->Flood warnings issued as rain hits region-->39
 /news/articles/cz5xkgky7jro-->Doctor calls for car idling measures to go further-->39
-/news/world-asia-67862306-->How Japan’s powerful earthquakes have shifted the land-->39
+/news/world-asia-67862306-->How Japanâ€™s powerful earthquakes have shifted the land-->39
 /news/live/uk-england-67863282-->West Midlands clear-up begins as floods subside-->39
 /news/uk-england-norfolk-67864271-->Red kite's fatal poisoning investigated by police-->39
 /news/live/uk-england-nottinghamshire-67862316-->As it happened: East Midlands hit by flooding-->39
@@ -908,7 +909,9 @@
 /news/uk-england-london-67789757-->2024: BBC London's experts make their predictions-->39
 /news/uk-england-cambridgeshire-67686351-->Cats nip in to garden centre and make it their home-->39
 /news/articles/ceq45d00w9xo-->Walkers urged to protect bluebells-->39
-/news/articles/c72y0plkg7xo-->Suspected tornado splits ancient oak tree-->39
+/news/uk-england-cambridgeshire-67686351-->Cats nip in to garden centre and make it their home-->40
+/news/articles/ceq45d00w9xo-->Walkers urged to protect bluebells-->40
+/news/articles/c72y0plkg7xo-->Suspected tornado splits ancient oak tree-->40
 /news/uk-england-coventry-warwickshire-67065224-->The kids who grew up with chimps, leopards and a bear-->40
 /news/world-europe-isle-of-man-67784744-->Project focuses on maternal health 1,000 years ago-->40
 /news/uk-england-somerset-67841628-->'Bring your camera not your hammer'-->40
@@ -925,20 +928,20 @@
 /news/uk-england-shropshire-67785102-->Photographer stops time to snap butterflies and birds-->40
 /news/uk-england-york-north-yorkshire-67649989-->How climate change is affecting Christmas trees-->40
 /news/world-asia-india-67758413-->'Like a wow!' and other Indian 2023 social media hits-->40
-/news/world-europe-67777814-->Broken laptop? Austria will give you €200 to fix it-->40
+/news/world-europe-67777814-->Broken laptop? Austria will give you â‚¬200 to fix it-->40
 /news/science-environment-67842294-->Sewage spill monitors extend reach to cover all England-->40
 /news/science-environment-67837161-->Nasa mission lines up to 'touch the Sun'-->40
 /news/world-australia-67633892-->The silent killer stalking Australia's summer-->40
 /news/articles/cw0l1lyjvk4o-->Rise in seals and sharks 'conservation success'-->40
-/news/uk-england-kent-67841070-->Public told to keep distance from washed-up whale-->40
-/news/world-africa-67771596-->The shark spotters back in action in South Africa-->40
-/news/uk-scotland-67832471-->Homes have second night without power after storm-->40
+/news/uk-england-kent-67841070-->Public told to keep distance from washed-up whale-->41
+/news/world-africa-67771596-->The shark spotters back in action in South Africa-->41
+/news/uk-scotland-67832471-->Homes have second night without power after storm-->41
 /news/uk-scotland-66012480-->Scottish Water 'on track' to install sewage monitors-->41
 /news/uk-67763438-->Malkinson and a former hostage on the surrealism of captivity-->41
 /news/world-asia-india-67769454-->The year India reached the Moon - and aimed for the Sun-->41
 /news/articles/c3gyzqrv9qdo-->Juvenile fin whale washes up on Kent shore-->41
 /news/articles/c03yepzm60mo-->Flooding expected as warnings remain in force-->41
-/news/articles/c1dyprzd9yeo-->Met Éireann records Ireland's warmest year-->41
+/news/articles/c1dyprzd9yeo-->Met Ã‰ireann records Ireland's warmest year-->41
 /news/world-australia-67832905-->Teenage boy killed in shark attack in Australia-->41
 /news/uk-67830798-->Electrical goods recycling collections planned-->41
 /news/uk-england-somerset-67772705-->Fossil hunters 'damaging' coast with angle grinders-->41
@@ -951,6 +954,3 @@
 /news/world-latin-america-66786995-->The fish that eats piranhas for breakfast-->41
 /news/science-environment-67718719-->World's tallest wooden wind turbine starts turning-->41
 /news/uk-northern-ireland-67823554-->Hundreds of sandbags deployed as Storm Gerrit hits-->41
-/news/articles/c51zkwk5775o-->River Wear flood alert issued due to heavy rain-->41
-/news/uk-scotland-67829546-->Travel disruption as Storm Gerrit hits Scotland-->41
-/news/articles/cxwdkpj802vo-->Boxing Day 'moon halo' spotted in the sky-->41

@@ -36,7 +36,7 @@ print("Total Links: ", len(final_list))
 # for links in final_list:
 #     print(links[0], "-->", links[1])
 
-f = open("links.txt", "w")
+f = open("links.txt", "w", encoding='utf-8')
 for links in final_list:
     f.write(links[0] + "-->" + links[1] + "-->" + str(links[2]) + "\n")
 f.close()
